@@ -21,7 +21,9 @@
         "workbench.colorTheme": "Visual Studio Dark",
         "editor.tabSize": 2,
         "editor.insertSpaces": true,
-        "editor.detectIndentation": false
+        "editor.detectIndentation": false,
+        "workbench.view.extension.github-pull-request.visible": false,
+        "workbench.view.debug.visible": false
       }
     }
   }
