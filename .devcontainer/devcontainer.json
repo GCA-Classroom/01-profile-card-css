@@ -1,15 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "customizations": {
-    "codespaces": {
-      "repositories": {
-        "PE-Classroom/01-profile-card-css": {
-          "permissions": {
-            "contents": "read"
-          }
-        }
-      }
-    },
     "vscode": {
       "extensions": [
         "GitHub.copilot",
